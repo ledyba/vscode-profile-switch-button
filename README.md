@@ -1,16 +1,12 @@
 # Profile Switch Button
 
-Add "Switch Profile" button to status bar.
+Add "Switch Profile" button to status bar (left side).
+
+[Available on market place](https://marketplace.visualstudio.com/items?itemName=ledyba.profile-switch-button)!
 
 ## About buttons
 
 Just add "Swich Profile" button to side bar (left side). When you click, you can select your profiles like this:
-
-## Release Notes
-
-### 0.1.0
-
-Initial release.
 
 ## Copyright
 
