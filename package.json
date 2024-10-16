@@ -2,6 +2,15 @@
   "name": "profile-switch-button",
   "displayName": "Profile Switch Button",
   "description": "Switch your profile!",
+  "icon": "icon.png",
+  "publisher": "ledyba",
+  "author": "Kaede Fujisaki",
+  "license": "MIT",
+  "homepage": "https://github.com/ledyba/vscode-profile-switch-button",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ledyba/vscode-profile-switch-button.git"
+  },
   "version": "0.1.0",
   "engines": {
     "vscode": "^1.94.0"
