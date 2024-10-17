@@ -8,7 +8,7 @@ const COMMAND_NAME = 'workbench.profiles.actions.switchProfile';
 // This method is called when your extension is activated
 // Your extension is activated the very first time the command is executed
 export function activate(context: vscode.ExtensionContext) {
-  statusBar = vscode.window.createStatusBarItem(vscode.StatusBarAlignment.Left, 10000000);
+  statusBar = vscode.window.createStatusBarItem('profile-switch-button.button', vscode.StatusBarAlignment.Left, Number.MAX_VALUE);
   statusBar.command = COMMAND_NAME;
 	statusBar.text = 'Switch Profile';
   statusBar.show();
