@@ -28,6 +28,7 @@
       "description": ""
     }
   },
+  "extensionKind": ["ui", "workspace"],
   "main": "./dist/extension.js",
   "contributes": {
     "commands": []
