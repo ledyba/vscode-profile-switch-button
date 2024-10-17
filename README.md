@@ -4,6 +4,10 @@ Add "Switch Profile" button to status bar (left side).
 
 ![Button Image](https://raw.githubusercontent.com/ledyba/vscode-profile-switch-button/refs/heads/magistra/.github/button-image.png)
 
+Do not forget to mark "Apply Extension to all Profiles" check!
+
+![Button Image](https://raw.githubusercontent.com/ledyba/vscode-profile-switch-button/refs/heads/magistra/.github/apply-extension-to-all-profiles.png)
+
 [Available on market place](https://marketplace.visualstudio.com/items?itemName=ledyba.profile-switch-button)!
 
 ## About buttons
