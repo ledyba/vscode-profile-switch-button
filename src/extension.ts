@@ -10,7 +10,7 @@ const COMMAND_NAME = 'workbench.profiles.actions.switchProfile';
 export function activate(context: vscode.ExtensionContext) {
   statusBar = vscode.window.createStatusBarItem('profile-switch-button.button', vscode.StatusBarAlignment.Left, Number.MAX_VALUE);
   statusBar.command = COMMAND_NAME;
-	statusBar.text = 'Switch Profile';
+  statusBar.text = 'Switch Profile';
   statusBar.show();
   context.subscriptions.push(statusBar);
 }
